@@ -23,6 +23,4 @@ Sou desenvolvedor full stack com mais de 10 anos de experiência.
   <img align="center" alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
 
