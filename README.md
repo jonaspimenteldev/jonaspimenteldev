@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Jonas Pimentel 🖐️
 
-Sou desenvolvedor full stack com mais de 10 anos de experiência.
+Sou desenvolvedor front end e full stack com mais de 13 anos de experiência.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonaspimenteldev)
 [![Linkedin](https://img.shields.io/badge/Linkedin-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonaspimenteldev/)
